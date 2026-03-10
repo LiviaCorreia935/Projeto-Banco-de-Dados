@@ -1,4 +1,4 @@
-E ESE: ---EXECUTAR O CODIGO NO MYSQL - Linguegem sql-
+ ---EXECUTAR O CODIGO NO MYSQL - Linguegem sql-
     
     ---criando o banco de dados----
     CREATE DATABASE Clinicas 
